@@ -1,0 +1,57 @@
+.mainH{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 130px);
+}
+.containerHome{
+    background-color: rgb(255, 255, 255);
+    padding-left: 1rem;
+    width: 30%;
+
+}
+.containerHome h1{
+    font-size: 70px;
+    font-weight: bold;
+    margin: 15px;
+}
+.containerHome h3{
+    font-size: 34px;
+    margin: 10px;
+    color: rgb(130, 9, 244);
+}
+.containerHome p{
+    font-size: 26px;
+    margin: 10px;
+}
+.botaoVer{
+   background-color: rgb(130, 9, 244);
+   border: none;  
+   width: 150px;
+   border-radius: 30px;
+   font-size: 19px;
+   height: 59px; 
+   margin: 20px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.botaoVer:hover{
+    background-color:rgb(2, 175, 11);
+}
+
+.botaoservi{
+    background-color: rgb(2, 175, 11);
+    border: none;  
+    width: 150px;
+    border-radius: 30px;
+    font-size: 20px;
+    height: 59px; 
+     margin: 20px;
+     color: rgb(255, 255, 255);
+     cursor: pointer;
+ }
+ .botaoservi:hover{
+     background-color: rgb(130, 9, 244);
+ }
+ 

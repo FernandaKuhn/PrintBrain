@@ -1,0 +1,26 @@
+.containerMain{
+    background-color: #404040;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 75px;
+
+}
+
+.containerMain ul{
+    list-style: none;
+    display: flex;
+}
+
+.containerMain ul li{
+    padding: 0 30px;
+}
+
+.containerMain img{
+    width: 150px;
+}
+
+.containerMain ul li a{
+    text-decoration: none;
+    color:rgb(225, 131, 244);
+}

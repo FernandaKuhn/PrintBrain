@@ -1,0 +1,56 @@
+.services{
+    width: 100%;
+    background-color: rgb(208, 210, 211);
+    margin-top: 1em 0;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.principio{
+    text-align: center;
+    color: rgb(130, 9, 244); 
+}
+
+.card{
+    margin: 50px 15px;
+    width: 25%;
+    text-align: center;
+    box-shadow: 0 0 3px #fff;
+    padding: 1em;
+    background-color: #fff;
+    
+    
+
+}
+
+.card img{
+    
+    object-fit: contain;
+}
+
+.card h2{
+    font-size: 40px;
+}
+
+.imgdesenho{
+    width: 265px;
+}
+.imglampada{
+    width: 300px;
+}
+.imgcamisa{
+    width: 250px;
+}
+
+.card p{
+    font-size: 25px;
+}
+
+.proximo{
+    text-align: center;
+    margin: 50px;
+}
+.proximo h1{
+    margin: 20px;
+}
