@@ -11,9 +11,9 @@ const Home= () =>{
                 <p>Usar seu estilo e suas ideias de uma forma única, você só encontra aqui!!</p>
                 <div className='botoes'>
                 
-                <a href='http://localhost:3000/contato'><button className='botaoVer'>Entrar em contato</button></a>
+                <a href='https://theprintbrain-4jskedr0f-fernandakuhn.vercel.app/contato'><button className='botaoVer'>Entrar em contato</button></a>
                <div>
-                <a href='http://localhost:3000/services'><button className='botaoservi'>Saiba mais</button></a>
+                <a href='https://theprintbrain-4jskedr0f-fernandakuhn.vercel.app/services'><button className='botaoservi'>Saiba mais</button></a>
             </div>
               </div>
             </div>
